@@ -12,6 +12,8 @@ Demonstrate that **stereo cameras can replace LiDAR** for robot navigation by:
 2. Using **reinforcement learning** to optimize stereo matching parameters
 3. Comparing navigation performance between LiDAR and camera-based systems
 
+![Project Overview](project_overview.png)
+
 ## 🏗️ Architecture
 
 ```
