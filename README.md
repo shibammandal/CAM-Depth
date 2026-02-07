@@ -14,6 +14,8 @@ Demonstrate that **stereo cameras can replace LiDAR** for robot navigation by:
 
 ![Project Overview](project_overview.png)
 
+*Still alot of work needs to be done for better depth estimation and navigation performance*
+
 ## 🏗️ Architecture
 
 ```
